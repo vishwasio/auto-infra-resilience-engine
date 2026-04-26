@@ -79,6 +79,7 @@ The execution flow is a closed-loop cycle. A TrafficSimulator generates load tha
 
     AIRE/ 
       ├── src/main/java/io/trishul/flux/
+      │   ├── TrishulFLuxApplication.java
       │   ├── agent/                 # COGNITION: AI Reasoning Layer
       │   │   ├── DecisionEngine.java     
       │   │   ├── GeminiModelClient.java / ModelClient.java 
